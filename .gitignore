@@ -1,0 +1,18 @@
+# Environment variables
+.env*.local
+
+# Dependencies
+node_modules
+
+# Next.js build output
+.next/
+
+# OS files
+.DS_Store
+
+# Raw image source folders (originals with long filenames — clean copies are in /public root)
+public/exterior/
+components/Decorative Design/
+
+# Vercel
+.vercel/
